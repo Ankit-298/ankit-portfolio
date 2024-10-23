@@ -55,7 +55,7 @@
 </section>
 <section>
     <h2>Contact</h2>
-    <p>Email:<a href="ankit29086@gmail.com">ankit29086@gmail.com</a></p>
+    <p>Email:<a href="mailto:ankit29086@gmail.com">ankit29086@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/ankit-kumar-4a3019322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">ankit's LinkedIn Profile</a></p>
     <p>Github:<a href="https://github.com/Ankit-298">Ankit's github profile</a></p>
 </section>
