@@ -50,7 +50,6 @@
     <ul>
         <li>Programming Languages: Python</li>
         <li>Web Development: HTML, CSS</li>
-        
         <li>Tools:Codetantra,Visual Studio Code</li>
     </ul>
 </section>
